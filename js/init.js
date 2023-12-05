@@ -1,7 +1,5 @@
 /*  Initializa Firebase con la configuración del proyecto. Revisa la
  * configuración en tu servidor de Firebase.  */
-// @ts-ignore
-// Import the functions you need from the SDKs you need
 
 const firebaseConfig = {
   apiKey: "AIzaSyDOpR-Ept16bX781KnmfIP2v9MA1PnvyGo",
