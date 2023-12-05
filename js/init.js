@@ -1,6 +1,4 @@
-/*  Initializa Firebase con la configuración del proyecto. Revisa la
- * configuración en tu servidor de Firebase.  */
-
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyDOpR-Ept16bX781KnmfIP2v9MA1PnvyGo",
   authDomain: "proyecto-ahm.firebaseapp.com",
